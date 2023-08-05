@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employeetodo/static/css/main.07b65b53.css",
+    "main.js": "/employeetodo/static/js/main.0cf218c7.js",
+    "index.html": "/employeetodo/index.html",
+    "main.07b65b53.css.map": "/employeetodo/static/css/main.07b65b53.css.map",
+    "main.0cf218c7.js.map": "/employeetodo/static/js/main.0cf218c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b65b53.css",
+    "static/js/main.0cf218c7.js"
+  ]
+}
