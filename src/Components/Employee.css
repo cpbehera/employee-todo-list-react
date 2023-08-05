@@ -1,0 +1,25 @@
+.todocontainer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px 0;  
+    height: 100vh;
+}
+.inputContainer input{
+    margin: 0 10px;
+    padding: 10px 5px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #cfcece;
+}
+table{
+    width: 800px !important;
+}
+table,td{
+    text-align: center;
+}
+td>i{
+    cursor: pointer;
+}
